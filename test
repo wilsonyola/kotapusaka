@@ -1,0 +1,4 @@
+$mkdir /path/to/source-code
+$cd /path/to/source-code
+$ git clone https://github.com/wilsonyola/kotapusaka.git
+$ cd projectName
